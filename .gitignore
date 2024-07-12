@@ -1,0 +1,7 @@
+# everything should be ignored
+*
+
+# dont ignore the core files
+!.gitignore
+!ai_tts.py
+!README.md
